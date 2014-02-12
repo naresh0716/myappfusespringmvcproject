@@ -1,6 +1,6 @@
 package com.mycompany.webapp.filter;
 
-import org.appfuse.Constants;
+import com.mycompany.Constants;
 import org.springframework.context.i18n.LocaleContextHolder;
 import org.springframework.web.filter.OncePerRequestFilter;
 
