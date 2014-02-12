@@ -1,0 +1,4 @@
+myappfusespringmvcproject
+=========================
+
+appfuse spring mvc
